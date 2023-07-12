@@ -1,0 +1,10 @@
+.idea
+.vscode
+.history
+target
+bin
+out
+output
+dist
+*.properties
+*.yml
