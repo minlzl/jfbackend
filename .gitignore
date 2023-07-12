@@ -6,5 +6,5 @@ bin
 out
 output
 dist
-*.properties
-*.yml
+**/*.properties
+**/*.yml
